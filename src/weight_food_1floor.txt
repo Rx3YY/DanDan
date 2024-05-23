@@ -1,0 +1,9 @@
+主食:
+{'food': '小笼包', 'calorie': 5, 'time': 5}
+{'food': '香菇面', 'calorie': 5, 'time': 1}
+{'food': '馄饨', 'calorie': 5, 'time': 1}
+粥类:
+{'food': '豆浆', 'calorie': 1, 'time': 5}
+{'food': '八宝粥', 'calorie': 4, 'time': 4}
+副食:
+{'food': '煮鸡蛋', 'calorie': 2, 'time': 5}
